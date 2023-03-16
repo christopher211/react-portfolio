@@ -2,6 +2,36 @@
   "data": [
     {
       "id": "1",
+      "name": "money-tracker",
+      "createdAt": "2023-03-13T00:00:00Z",
+      "url": "https://github.com/christopher211/money-tracker",
+      "description": "The simple app to track your money. You can add your income and expense. The app will calculate your balance and show you the chart of your income and expense. You can also add your budget and the app will show you the chart of your budget and balance.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "ReactJS",
+          "iconifyClass": "vscode-icons:file-type-reactjs"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "ChartJS",
+          "iconifyClass": "file-icons:chartjs"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "2",
       "name": "mindmap-management",
       "createdAt": "2023-02-09T00:00:00Z",
       "url": "https://github.com/christopher211/mindmap-management",
@@ -31,7 +61,7 @@
       "isFork": false,
       "languages": [
         {
-          "name": "React",
+          "name": "ReactJS",
           "iconifyClass": "logos-react"
         },
         {
@@ -65,7 +95,7 @@
           "iconifyClass": "logos-typescript-icon"
         },
         {
-          "name": "Express",
+          "name": "ExpressJS",
           "iconifyClass": "logos:express"
         },
         {
