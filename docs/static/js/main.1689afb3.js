@@ -1,4 +1,4 @@
-/*! For license information please see main.8660e5c3.js.LICENSE.txt */
+/*! For license information please see main.1689afb3.js.LICENSE.txt */
 !(function () {
   var e = {
       2555: function (e, t) {
@@ -15419,7 +15419,8 @@
               title: "Full Stack Coding Bootcamp",
               subtitle: "- University of Minnesota",
               logo_path: "minnesota_logo.png",
-              certificate_link: "",
+              certificate_link:
+                "https://drive.google.com/file/d/1v7B3z8Teln3oYSiqs3zBY8kRoFfRXptw/view?usp=share_link",
               alt_name: "University of Minnesota",
               color_code: "#8C151599",
             },
@@ -25205,4 +25206,4 @@
           });
     })();
 })();
-//# sourceMappingURL=main.8660e5c3.js.map
+//# sourceMappingURL=main.1689afb3.js.map

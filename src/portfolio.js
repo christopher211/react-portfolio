@@ -162,7 +162,8 @@ const certifications = {
       title: "Full Stack Coding Bootcamp",
       subtitle: "- University of Minnesota",
       logo_path: "minnesota_logo.png",
-      certificate_link: "", // Add your certificate link here
+      certificate_link:
+        "https://drive.google.com/file/d/1v7B3z8Teln3oYSiqs3zBY8kRoFfRXptw/view?usp=share_link",
       alt_name: "University of Minnesota",
       color_code: "#8C151599",
     },
